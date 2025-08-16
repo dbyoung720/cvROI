@@ -1,0 +1,8 @@
+.vs
+roi
+*.dcu
+*.exp
+*.user
+*.pdb
+*.local
+*.identcache
